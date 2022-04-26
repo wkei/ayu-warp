@@ -1,7 +1,7 @@
 accent: '#ffcc66'
 background: '#1f2430'
 details: darker
-foreground: '#cbccc6'
+foreground: '#cccac2'
 terminal_colors:
   bright:
     black: '#686868'
@@ -10,7 +10,7 @@ terminal_colors:
     green: '#d5ff80'
     magenta: '#dfbfff'
     red: '#f28779'
-    white: '#f28779'
+    white: '#ffffff'
     yellow: '#ffd173'
   normal:
     black: '#171b24'
