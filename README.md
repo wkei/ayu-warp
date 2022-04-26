@@ -8,11 +8,9 @@
 
 ## Install
 
-Create a config directory `~/.warp/themes` in your home directory:
-
-Download the theme files in the `themes` directory from GitHub and copy them to `~/.warp/themes`.
-
-Then change the theme in `Settings > Appearance`.
+- Create a config directory `~/.warp/themes` in your home directory.
+- Download the theme files in the [themes](https://github.com/wkei/ayu-warp/tree/main/themes) directory from GitHub and copy them to `~/.warp/themes`.
+- Then change the theme in `Settings > Appearance`.
 
 Reference: [https://docs.warp.dev/features/themes](https://docs.warp.dev/features/themes#1.-how-do-i-use-a-custom-theme-in-warp)
 
@@ -20,7 +18,7 @@ Reference: [https://docs.warp.dev/features/themes](https://docs.warp.dev/feature
 
 ```
 mkdir -p ~/.warp/themes && cd "$_"
-curl -O "https://github.com/wkei/ayu-warp/tree/main/.themes/ayu_{light,mirage,dark}.yaml"
+curl -O "https://github.com/wkei/ayu-warp/tree/main/themes/ayu_{light,mirage,dark}.yaml"
 ```
 
 ## Screenshots
