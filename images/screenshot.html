@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title></title>
+    <style type="text/css">
+      body {
+        margin: 0;
+      }
+      .container {
+        position: relative;
+        width: 100vw;
+        height: 94vw;
+      }
+      .container img {
+        position: absolute;
+        width: 100vw;
+        left: 0;
+        top: 0;
+        transform-origin: top center;
+      }
+      .container img:nth-child(1) {
+        transform: scale(.8);
+      }
+      .container img:nth-child(2) {
+        transform: translate(0, 9vw) scale(.9);
+      }
+      .container img:nth-child(3) {
+        position: relative;
+        transform: translate(0, 19vw);
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <img src="./ayu_dark.png" />
+      <img src="./ayu_mirage.png" />
+      <img src="./ayu_light.png" />
+    </div>
+  </body>
+</html>
