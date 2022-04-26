@@ -2,9 +2,9 @@
 
 [ayu](https://github.com/dempfi/ayu) theme for [Warp](https://github.com/warpdotdev/Warp)
 
-![ayu](./images/hero.png)
-
 > `ayu` is a simple theme with bright colors and comes in three versions — _dark_, _mirage_ and _light_ for all day long comfortable work.
+
+![ayu](./images/hero.png)
 
 ## Install
 
