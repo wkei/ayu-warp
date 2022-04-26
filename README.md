@@ -20,7 +20,7 @@ Reference: [https://docs.warp.dev/features/themes](https://docs.warp.dev/feature
 
 ```
 mkdir -p ~/.warp/themes && cd "$_"
-curl -O "https://github.com/wkei/ayu-warp/tree/main/themes/ayu_{light,mirage,dark}.yaml"
+curl -O "https://raw.githubusercontent.com/wkei/ayu-warp/main/themes/ayu_{light,mirage,dark}.yaml"
 ```
 
 ## Screenshots
