@@ -6,11 +6,13 @@
 
 ![ayu](./images/hero.png)
 
+_All screenshots use default [Hack](https://sourcefoundry.org/hack) font._
+
 ## Install
 
 - Create a config directory `~/.warp/themes` in your home directory.
 - Download the theme files in the [themes](https://github.com/wkei/ayu-warp/tree/main/themes) directory from GitHub and copy them to `~/.warp/themes`.
-- Then change the theme in `Settings > Appearance`.
+- Change the theme in `Settings > Appearance` (`⌘+,`).
 
 Reference: [https://docs.warp.dev/features/themes](https://docs.warp.dev/features/themes#1.-how-do-i-use-a-custom-theme-in-warp)
 
@@ -34,3 +36,5 @@ curl -O "https://github.com/wkei/ayu-warp/tree/main/themes/ayu_{light,mirage,dar
 #### Dark
 
 ![ayu dark](./images/ayu_dark.png)
+
+
